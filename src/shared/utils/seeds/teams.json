@@ -1,0 +1,66 @@
+[
+  {
+    "uuid": "33333333-3333-3333-3333-333333333333",
+    "name": "Team A",
+    "city": "Bogotá",
+    "budget": 1000000,
+    "motto": "Go Team A!",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
+    "uuid": "44444444-4444-4444-4444-444444444444",
+    "name": "Team B",
+    "city": "Medellín",
+    "budget": 800000,
+    "motto": "Fight to Win",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
+    "uuid": "55555555-5555-5555-5555-555555555555",
+    "name": "Team C",
+    "city": "Cali",
+    "budget": 750000,
+    "motto": "Never Give Up",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
+    "uuid": "66666666-6666-6666-6666-666666666666",
+    "name": "Team D",
+    "city": "Barranquilla",
+    "budget": 900000,
+    "motto": "Victory is Ours",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
+    "uuid": "77777777-7777-7777-7777-777777777777",
+    "name": "Team E",
+    "city": "Cartagena",
+    "budget": 850000,
+    "motto": "Strive for Greatness",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
+    "uuid": "88888888-8888-8888-8888-888888888888",
+    "name": "Team F",
+    "city": "Pereira",
+    "budget": 700000,
+    "motto": "Strength in Unity",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
+    "uuid": "99999999-9999-9999-9999-999999999999",
+    "name": "Team G",
+    "city": "Manizales",
+    "budget": 650000,
+    "motto": "Play to Win",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  },
+  {
+    "uuid": "10101010-1010-1010-1010-101010101010",
+    "name": "Team H",
+    "city": "Santa Marta",
+    "budget": 780000,
+    "motto": "United We Stand",
+    "status_uuid": "11111111-1111-1111-1111-111111111111"
+  }
+]
